@@ -1,2 +1,1 @@
-print("Hello git!")
-print("Hola mundo!")
+print("Ahora estoy editando el fichero")
